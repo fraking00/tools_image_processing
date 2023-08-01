@@ -1,7 +1,8 @@
 # ISTRUZIONI PER L'USO
 
 
-sviluppato in Matlab.
+Sviluppato in Matlab.
+
 La struttura della cartella `src` di questo progetto è la seguente:
 
 ```bash
